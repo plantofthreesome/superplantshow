@@ -21,6 +21,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.lire.image.entity.Image;
 import com.lire.image.service.ImageService;
+//####
 @Controller
 public class ImageController {
 	
